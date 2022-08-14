@@ -6,4 +6,4 @@
 
 ## Screenshots📸
 - <h3>Metaverse World</h3>
-<image src="(https://user-images.githubusercontent.com/92815147/184539456-88f1c782-ca0f-4b7b-ba08-95f101468555.png)"/>
+<image src="https://user-images.githubusercontent.com/92815147/184539456-88f1c782-ca0f-4b7b-ba08-95f101468555.png"/>
