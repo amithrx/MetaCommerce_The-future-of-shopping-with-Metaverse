@@ -1,5 +1,7 @@
 # MetaCommerce-The future of Shopping
-- Live Website made using Aframe (A web framework for buiding Virtual Reality Experiences).
+- Live Website made using Aframe (A web framework for buiding Virtual Reality Experiences)
+- Check Flipkart_PPT pdf to check for the major features that we had implemented
+
 # Website link-Use Firefox
 <a href="https://cotton-yummy-front.glitch.me">Website link</a>
 <br>
