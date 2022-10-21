@@ -1,6 +1,9 @@
-<h1><center>MetaCommerce-The future of Shopping</center></h1>
-- Live Website made using Aframe (A web framework for buiding Virtual Reality Experiences).<a href="https://cotton-yummy-front.glitch.me">(Website link-Use Firefox)</a><br>
-- # Code Link
+# MetaCommerce-The future of Shopping
+- Live Website made using Aframe (A web framework for buiding Virtual Reality Experiences).
+# Website link-Use Firefox
+<a href="https://cotton-yummy-front.glitch.me">(Website link-Use Firefox)</a>
+<br>
+# Code Link
 <a href="[https://replit.com/@ankitsharma610/V-Shop#README.md](https://glitch.com/edit/#!/cotton-yummy-front?path=public%2Fscene.html%3A1%3A0)">Code Link</a>
 <br>
 
